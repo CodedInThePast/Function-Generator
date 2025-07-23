@@ -1,1 +1,1 @@
-# Function-Generator
+# Designed and simulated an astable multivibrator core with buffered output stages capable of generating a variable frequency from 1Hz–1MHz, and variable amplitude upto 20V using Multisim for prototyping, under faculty guidance
